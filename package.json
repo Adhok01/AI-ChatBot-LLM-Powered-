@@ -1,0 +1,15 @@
+{
+  "name": "llm-app",
+  "version": "1.0.0",
+  "description": "Chat with Ollama via Flask",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 app.py",
+    "dev": "python3 app.py",
+    "build": "echo 'No build step needed'"
+  },
+  "keywords": ["ollama", "llm", "chat"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
